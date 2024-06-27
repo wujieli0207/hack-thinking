@@ -1,1 +1,1 @@
-# Hacker Thinking
+# 独立开发沉思录
