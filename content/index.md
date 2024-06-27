@@ -12,16 +12,16 @@ title: 你好，同路人
 
 网站的核心内容
 
-- [[technology/index|技术]]
-- [[product/index|产品]]
-- [[design/index|设计]]
-- [[market/index|营销]]
+- [[technology/home|技术]]
+- [[product/home|产品]]
+- [[design/home|设计]]
+- [[market/home|营销]]
 
 除了理论，还有实践的内容
 
-- [[pioneer/index|领路人]]
-- [[case/index|案例]]
-- [[tool/index|工具]]
-- [[philosophy/index|哲学]]
+- [[pioneer/home|领路人]]
+- [[case/home|案例]]
+- [[tool/home|工具]]
+- [[philosophy/home|哲学]]
 
 > 人们会被自己热爱的事物改变，而没有人因为给予而贫穷
