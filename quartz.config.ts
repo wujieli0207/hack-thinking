@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Indie Hacker Thinking",
+    pageTitle: "独立开发沉思录",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
