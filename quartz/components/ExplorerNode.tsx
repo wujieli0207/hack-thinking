@@ -181,11 +181,13 @@ export function ExplorerNode({ node, opts, fullPath, fileData }: ExplorerNodePro
               {node.displayName}
             </a>
           </li>
-          <li key="home">
-            <a href="/" data-for="index">
-              主页
-            </a>
-          </li>
+          {node.depth === 1 && (
+            <li key="home">
+              <a href="/" data-for="index">
+                home
+              </a>
+            </li>
+          )}
         </>
       ) : (
         <li>
