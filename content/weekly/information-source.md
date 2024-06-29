@@ -15,3 +15,7 @@ title: 周刊信息源
 新闻
 
 - [Buzzing](https://www.buzzing.cc/): 通过中文浏览国际新闻
+
+宏观信息
+
+- [洋同学的宏观笔记](https://x.com/locean0410)
