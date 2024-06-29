@@ -18,7 +18,7 @@ PageTitle.css = `
 .page-icon {
   width: 28px;
   height: 28px;
-  margin-right: 8px;
+  margin: 0 8px 0 0;
 }
 .page-title {
   display: flex;
