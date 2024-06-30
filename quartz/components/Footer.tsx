@@ -1,6 +1,5 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/footer.scss"
-import { i18n } from "../i18n"
 
 interface Options {
   links: Record<string, string>
@@ -14,7 +13,8 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <hr />
         <p>
-          Written by <a href="https://wujieli.com">Mr.WujieLi</a> © {year}
+          Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.2.3</a>, Written by{" "}
+          <a href="https://wujieli.com">Mr.WujieLi</a> © {year}
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
