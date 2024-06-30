@@ -9,6 +9,7 @@ title: 领路人
 
 独立开发者
 
+- [[idoubi|艾逗笔]]
 - [[anxiaozhu|安小竹]]
 
 学者
