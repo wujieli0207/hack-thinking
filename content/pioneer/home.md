@@ -7,6 +7,14 @@ title: 领路人
 - [[shaonan|少楠]]
 - [[light|light]]
 
+独立开发者
+
+- [[anxiaozhu|安小竹]]
+
 学者
 
 - [[niklas-luhmann|尼古拉斯·卢曼]]
+
+即刻优质博主
+
+- [[lijigang|李继刚]]
