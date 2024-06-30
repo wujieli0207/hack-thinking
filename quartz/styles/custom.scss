@@ -3,9 +3,13 @@
 // put your custom CSS here!
 @use "./variables.scss" as *;
 
+header {
+  margin: 0;
+}
+
 .left {
   display: grid !important;
-  gap: 1.5rem !important;
+  gap: 1rem !important;
   grid-template-columns: 1fr;
   grid-template-rows: min-content min-content min-content min-content;
   align-items: center;
@@ -37,5 +41,9 @@
 
   @media all and (max-width: $fullPageWidth) {
     display: flex !important;
+
+    .darkmode {
+      margin: 0;
+    }
   }
 }
