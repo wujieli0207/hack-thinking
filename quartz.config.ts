@@ -11,9 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "独立开发沉思录",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: { provider: "google", tagId: "G-7LYX0E3TKN" },
     locale: "en-US",
     baseUrl: "hackthinking.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
