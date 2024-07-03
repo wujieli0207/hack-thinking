@@ -12,10 +12,13 @@ title: 周刊信息源
 
 - [Indie Hackers](https://www.indiehackers.com/)
 
-新闻
-
-- [Buzzing](https://www.buzzing.cc/): 通过中文浏览国际新闻
-
 宏观信息
 
+- [Buzzing](https://www.buzzing.cc/): 通过中文浏览国际新闻
 - [洋同学的宏观笔记](https://x.com/locean0410)
+
+工具推荐
+
+- [Product Hunt](https://www.producthunt.com/)
+- [HelloGitHub](https://juejin.cn/user/1574156384091320/posts)
+- [Github Trending](https://github.com/trending)
