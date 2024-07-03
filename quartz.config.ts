@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: { provider: "google", tagId: "G-7LYX0E3TKN" },
     locale: "en-US",
-    baseUrl: "hackthinking.com",
+    baseUrl: "www.hackthinking.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
