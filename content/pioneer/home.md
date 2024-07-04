@@ -16,6 +16,11 @@ title: 领路人
 
 - [[niklas-luhmann|尼古拉斯·卢曼]]
 
+商业
+
+- [[wangchuan|王川]]
+- [[sam-altman|山姆·奥特曼]]
+
 即刻优质博主
 
 - [[lijigang|李继刚]]
