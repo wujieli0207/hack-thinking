@@ -16,6 +16,8 @@ title: 周刊信息源
 - [Indie Hackers](https://www.indiehackers.com/)
 - [Reddit/SideProject](https://www.reddit.com/r/SideProject/?rdt=50387)
 - [Decohack-独立开发者灵感周刊](https://www.decohack.com/)
+- [FAV0 周刊](https://fav0.com/)
+- [Engineering blogs](https://infos.imhcg.cn/)
 
 宏观信息
 
