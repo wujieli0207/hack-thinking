@@ -47,3 +47,13 @@ header {
     }
   }
 }
+
+article {
+  ul {
+    margin-block-start: -0.8em;
+    padding-inline-start: 30px;
+  }
+  li {
+    line-height: 2rem;
+  }
+}
