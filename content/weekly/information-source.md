@@ -36,3 +36,5 @@ title: 周刊信息源
 独立博客
 
 - [槿呈Goidea](https://justgoidea.com/)
+- [Pseudoyu](https://www.pseudoyu.com/zh/)
+- [枫言枫语 - 枫影 Justin Yan](https://justinyan.me/)
