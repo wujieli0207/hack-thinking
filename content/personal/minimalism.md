@@ -17,10 +17,6 @@ title: 极简主义
   - 持续提升能力
   - 不要让欲望超过能力
 
-应用
-
-- [[UNIX 设计哲学]]
-
 输出内容
 
 - [人生原则三：极简主义 | 旅行者计划](https://www.wujieli.com/blog/life/life-principle-minimalism)
