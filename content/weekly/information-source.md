@@ -7,6 +7,8 @@ title: 周刊信息源
 - [产品沉思录](https://www.pmthinking.com/a601a12335044f349a22caf57f274c27)
 - [潮流周刊](https://weekly.tw93.fun/)
 - [阮一峰的网络日志](https://ruanyifeng.com/blog/)
+- [信息差——独立开发者出海周刊](https://gapis.money/)
+- [FAV0 周刊](https://fav0.com/)
 - [更好生活](https://quail.ink/jiayifun)
 - [AIGC Weekly](https://quail.ink/op7418)
 - [随意搜寻（完结至 2023 年）](https://xiaobot.net/p/suiyisouxun2023)
@@ -16,7 +18,6 @@ title: 周刊信息源
 - [Indie Hackers](https://www.indiehackers.com/)
 - [Reddit/SideProject](https://www.reddit.com/r/SideProject/?rdt=50387)
 - [Decohack-独立开发者灵感周刊](https://www.decohack.com/)
-- [FAV0 周刊](https://fav0.com/)
 - [Engineering blogs](https://infos.imhcg.cn/)
 
 宏观信息
