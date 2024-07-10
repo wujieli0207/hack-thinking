@@ -177,13 +177,17 @@ export function ExplorerNode({ node, opts, fullPath, fileData }: ExplorerNodePro
         // Single file node
         <>
           <li key={node.file.slug}>
-            <a href={resolveRelative(fileData.slug!, node.file.slug!)} data-for={node.file.slug}>
+            <a
+              href={resolveRelative(fileData.slug!, node.file.slug!)}
+              data-for={node.file.slug}
+              title={node.displayName}
+            >
               {node.displayName}
             </a>
           </li>
           {node.depth === 1 && (
             <li key="home">
-              <a href="/" data-for="index">
+              <a href="/" data-for="index" title="home">
                 home
               </a>
             </li>
@@ -212,7 +216,7 @@ export function ExplorerNode({ node, opts, fullPath, fileData }: ExplorerNodePro
               {/* render <a> tag if folderBehavior is "link", otherwise render <button> with collapse click event */}
               <div key={node.name} data-folderpath={folderPath}>
                 {folderBehavior === "link" ? (
-                  <a href={href} data-for={node.name} class="folder-title">
+                  <a href={href} data-for={node.name} title={node.displayName} class="folder-title">
                     {node.displayName}
                   </a>
                 ) : (

@@ -13,13 +13,22 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <hr />
         <p>
-          Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.2.3</a>, Written by{" "}
-          <a href="https://wujieli.com">Mr.WujieLi</a> © {year}
+          Created with{" "}
+          <a href="https://quartz.jzhao.xyz/" title="quartz">
+            Quartz v4.2.3
+          </a>
+          , Written by{" "}
+          <a href="https://wujieli.com" title="Mr.WujieLi">
+            Mr.WujieLi
+          </a>{" "}
+          © {year}
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
-              <a href={link}>{text}</a>
+              <a href={link} title={text}>
+                {text}
+              </a>
             </li>
           ))}
         </ul>

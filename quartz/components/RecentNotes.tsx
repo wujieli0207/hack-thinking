@@ -48,7 +48,11 @@ export default ((userOpts?: Partial<Options>) => {
                 <div class="section">
                   <div class="desc">
                     <h3>
-                      <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
+                      <a
+                        href={resolveRelative(fileData.slug!, page.slug!)}
+                        title={title}
+                        class="internal"
+                      >
                         {title}
                       </a>
                     </h3>
@@ -65,6 +69,7 @@ export default ((userOpts?: Partial<Options>) => {
                           <a
                             class="internal tag-link"
                             href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
+                            title={tag}
                           >
                             {tag}
                           </a>
@@ -79,7 +84,10 @@ export default ((userOpts?: Partial<Options>) => {
         </ul>
         {opts.linkToMore && remaining > 0 && (
           <p>
-            <a href={resolveRelative(fileData.slug!, opts.linkToMore)}>
+            <a
+              href={resolveRelative(fileData.slug!, opts.linkToMore)}
+              title={i18n(cfg.locale).components.recentNotes.seeRemainingMore({ remaining })}
+            >
               {i18n(cfg.locale).components.recentNotes.seeRemainingMore({ remaining })}
             </a>
           </p>

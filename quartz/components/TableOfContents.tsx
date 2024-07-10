@@ -47,7 +47,7 @@ const TableOfContents: QuartzComponent = ({
         <ul class="overflow">
           {fileData.toc.map((tocEntry) => (
             <li key={tocEntry.slug} class={`depth-${tocEntry.depth}`}>
-              <a href={`#${tocEntry.slug}`} data-for={tocEntry.slug}>
+              <a href={`#${tocEntry.slug}`} data-for={tocEntry.slug} title={tocEntry.text}>
                 {tocEntry.text}
               </a>
             </li>
@@ -72,7 +72,7 @@ const LegacyTableOfContents: QuartzComponent = ({ fileData, cfg }: QuartzCompone
       <ul>
         {fileData.toc.map((tocEntry) => (
           <li key={tocEntry.slug} class={`depth-${tocEntry.depth}`}>
-            <a href={`#${tocEntry.slug}`} data-for={tocEntry.slug}>
+            <a href={`#${tocEntry.slug}`} data-for={tocEntry.slug} title={tocEntry.text}>
               {tocEntry.text}
             </a>
           </li>
