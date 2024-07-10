@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: { provider: "google", tagId: "G-7LYX0E3TKN" },
-    locale: "en-US",
+    locale: "zh-CN",
     baseUrl: "www.hackthinking.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",

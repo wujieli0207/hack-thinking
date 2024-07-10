@@ -33,6 +33,13 @@ export default (() => {
     const iconPath = joinSegments(baseDir, "static/icon.png")
     const ogImagePath = `https://${cfg.baseUrl}/static/og-image.png`
 
+    // 生成当前页面的完整URL，并去除index
+    let canonicalPath = (fileData.slug ?? "").replace(/\/index$/, "/")
+    if (canonicalPath === "index") {
+      canonicalPath = ""
+    }
+    const canonicalUrl = `https://${cfg.baseUrl}/${canonicalPath}`
+
     return (
       <head>
         <title>{title}</title>
@@ -64,6 +71,9 @@ export default (() => {
         <meta name="description" content={description} />
         <meta name="keywords" content={META_CONFIG.keywords.join(",")} />
         <meta name="generator" content="Quartz" />
+
+        <link rel="canonical" href={canonicalUrl} />
+
         {css.map((href) => (
           <link key={href} href={href} rel="stylesheet" type="text/css" spa-preserve />
         ))}
