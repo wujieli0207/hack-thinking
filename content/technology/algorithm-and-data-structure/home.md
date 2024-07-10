@@ -2,7 +2,11 @@
 title: 算法和数据结构
 ---
 
-数据结构
+## 基础知识
+
+- [[relationship-between-algorithm-and-data-structure|算法和数据结构的关系]]
+
+## 数据结构
 
 - [[array|数组]]
   - [[queue|队列]]
