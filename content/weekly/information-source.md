@@ -28,7 +28,7 @@ title: 周刊信息源
 工具推荐
 
 - [Product Hunt](https://www.producthunt.com/)
-- [HelloGitHub](https://juejin.cn/user/1574156384091320/posts)
+- [HelloGitHub](https://hellogithub.com/periodical)
 - [Github Trending](https://github.com/trending)
 - [独立开发者导航站](https://www.indiehackers.site/en/group/new)
 - [独立开发者出海工具栈](https://chuhai.tools/)
