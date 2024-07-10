@@ -23,3 +23,7 @@ title: 算法和数据结构
 - [[heap|堆]]
 - [[hash-table|哈希表]]
 - [[graph|图]]
+
+## 算法
+
+- [[sorting-algorithms|排序算法]]
