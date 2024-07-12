@@ -1,6 +1,10 @@
 ---
 title: 产品
 ---
+基础概念
+
+- [[marketing-theory-of-4ps|4P 理论]]
+- [[market-segmentation|产品细分市场]]
 
 产品设计模型
 
