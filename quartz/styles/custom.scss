@@ -56,4 +56,8 @@ article {
   li {
     line-height: 2rem;
   }
+
+  li > strong {
+    color: var(--dark);
+  }
 }
