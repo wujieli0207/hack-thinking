@@ -25,6 +25,6 @@ title: about
 
 - [邮箱](mailto:wujieli0207@outlook.com)
 - [个人博客](https://www.wujieli.com/)
-- [即刻](https://web.okjike.com/me)
+- [即刻](https://web.okjike.com/u/737645D8-42B5-4B4F-9687-DCA50D85DE1A)
 - [github](https://github.com/wujieli0207)
 - [Twitter](https://x.com/li_wujie)
