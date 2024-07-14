@@ -11,6 +11,7 @@ title: 领路人
 
 - [[idoubi|艾逗笔]]
 - [[anxiaozhu|安小竹]]
+- [[zhangxiaoji|张小吉]]
 
 学者
 
