@@ -22,18 +22,17 @@ title: 单例模式
 实现代码
 
 ```ts
-  class Singleton {
- private static instance: Singleton;
+class Singleton {
+  private static instance: Singleton;
   
- // 将构造函数设为 private，防止外部新建实例
- private constructor() {  
- }
+  // 将构造函数设为 private，防止外部新建实例
+  private constructor() { }
   
- public static getInstance(): Singleton {
-   if (!Singleton.instance) {
-  Singleton.instance = new Singleton();
-   }
+  public static getInstance(): Singleton {
+    if (!Singleton.instance) {
+      Singleton.instance = new Singleton();
+    }
    return Singleton.instance;
  }
-  }
+}
 ```

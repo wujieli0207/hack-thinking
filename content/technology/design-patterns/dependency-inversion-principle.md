@@ -19,36 +19,35 @@ title: 依赖倒置原则
 
 示例：用户管理器（UserManager）依赖于抽象接口 ILogger，而不依赖于具体的日志记录器实现类
 
-  ```ts
+```ts
   interface ILogger {
- log(message: string): void;
+    log(message: string): void;
   }
   
   class ConsoleLogger implements ILogger {
- public log(message: string): void {
-   console.log(`[ConsoleLogger] ${message}`);
+    public log(message: string): void {
+    console.log(`[ConsoleLogger] ${message}`);
  }
   }
   
   class FileManagerLogger implements ILogger {
- public log(message: string): void {
-   // Log message to file
-   console.log(`[FileManagerLogger] ${message}`);
- }
+    public log(message: string): void {
+      // Log message to file
+      console.log(`[FileManagerLogger] ${message}`);
+    }
   }
   
   class UserManager {
- private logger: ILogger;
+    private logger: ILogger;
   
- constructor(logger: ILogger) {
-   this.logger = logger;
- }
+    constructor(logger: ILogger) {
+      this.logger = logger;
+    }
   
- public addUser(name: string): void {
-   // Add user logic
-  
-   this.logger.log(`User added: ${name}`);
- }
+    public addUser(name: string): void {
+      // Add user logic
+      this.logger.log(`User added: ${name}`);
+    }
   }
   
   // Usage
@@ -60,4 +59,4 @@ title: 依赖倒置原则
   
   const userManager2 = new UserManager(fileManagerLogger);
   userManager2.addUser('Jane');
-  ```
+```
