@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/wujieli0207",
       Twitter: "https://x.com/li_wujie",
-      即刻: "https://web.okjike.com/me",
+      即刻: "https://web.okjike.com/u/737645D8-42B5-4B4F-9687-DCA50D85DE1A",
     },
   }),
 }
