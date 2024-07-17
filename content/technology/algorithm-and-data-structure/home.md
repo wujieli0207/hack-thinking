@@ -27,3 +27,9 @@ title: 算法和数据结构
 ## 算法
 
 - [[sorting-algorithms|排序算法]]
+- [[searching-algorithms|搜索算法]]
+- [[graph-algorithms|图算法]]
+- [[dynamic-programming|动态规划]]
+- [[greedy-algorithms|贪心算法]]
+- [[backtracking|回溯算法]]
+- [[divide-and-conquer|分治算法]]
