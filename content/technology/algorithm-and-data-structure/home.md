@@ -33,3 +33,11 @@ title: 算法和数据结构
 - [[greedy-algorithms|贪心算法]]
 - [[backtracking|回溯算法]]
 - [[divide-and-conquer|分治算法]]
+
+## 参考文档
+
+- [JavaScript 算法与数据结构 - github](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
+- [leetcode-master: 《代码随想录》LeetCode 刷题攻略](https://github.com/youngyangyang04/leetcode-master)
+- [数据结构与算法动画讲解视频](https://space.bilibili.com/50003725/video)
+- [可视化算法演示](https://visualgo.net/en)
+- [《Hello 算法》](https://www.hello-algo.com/chapter_preface/about_the_book/)
