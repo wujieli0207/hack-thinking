@@ -12,9 +12,8 @@ title: 设计模式
 
 ## 设计模式的三种类型
 
-### 创建型模式
 
-提供创建对象的机制
+创建型模式: 提供创建对象的机制
 
 - [[singleton-pattern|单例模式]]
 - [[factory-method-pattern|工厂方法模式]]
@@ -22,9 +21,7 @@ title: 设计模式
 - [[builder-pattern|生成器模式]]
 - [[prototype-pattern|原型模式]]
 
-### 结构型模式
-
-如何将对象和类组装成较大的结构
+结构型模式: 如何将对象和类组装成较大的结构
 
 - [[adapter-pattern|适配器模式]]
 - [[bridge-pattern|桥接模式]]
@@ -34,9 +31,7 @@ title: 设计模式
 - [[flyweight-pattern|享元模式]]
 - [[proxy-pattern|代理模式]]
 
-### 行为型模式
-
-负责对象间的高效沟通和职责委派
+行为型模式: 负责对象间的高效沟通和职责委派
 
 - [[chain-of-responsibility-pattern|责任链模式]]
 - [[command-pattern|命令模式]]
