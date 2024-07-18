@@ -12,7 +12,9 @@ title: 设计模式
 
 ## 设计模式的三种类型
 
-### 创建型模式 (Creational Patterns)
+### 创建型模式
+
+提供创建对象的机制
 
 - [[singleton-pattern|单例模式]]
 - [[factory-method-pattern|工厂方法模式]]
@@ -20,7 +22,9 @@ title: 设计模式
 - [[builder-pattern|生成器模式]]
 - [[prototype-pattern|原型模式]]
 
-### 结构型模式 (Structural Patterns)
+### 结构型模式
+
+如何将对象和类组装成较大的结构
 
 - [[adapter-pattern|适配器模式]]
 - [[bridge-pattern|桥接模式]]
@@ -30,7 +34,9 @@ title: 设计模式
 - [[flyweight-pattern|享元模式]]
 - [[proxy-pattern|代理模式]]
 
-### 行为型模式 (Behavioral Patterns)
+### 行为型模式
+
+负责对象间的高效沟通和职责委派
 
 - [[chain-of-responsibility-pattern|责任链模式]]
 - [[command-pattern|命令模式]]
@@ -43,8 +49,13 @@ title: 设计模式
 - [[strategy-pattern|策略模式]]
 - [[template-method-pattern|模板方法模式]]
 - [[visitor-pattern|访问者模式]]
+- [[publish-subscribe-pattern|发布-订阅模式]]
 
 ## 参考
 
 - [Java设计模式：23种设计模式全面解析](http://c.biancheng.net/design_pattern/)
 - [设计模式目录：22种设计模式](https://refactoringguru.cn/design-patterns/catalog)
+
+## 设计模式实践
+
+- [拒绝复杂 if-else，前端策略模式实践](https://www.wujieli.com/blog/front/javascript/front-end-strategy-pattern-practice)
