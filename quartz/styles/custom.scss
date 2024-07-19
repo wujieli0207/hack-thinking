@@ -49,14 +49,58 @@ header {
 }
 
 article {
+  /* 无序列表样式 */
   ul {
     margin-block-start: -0.8em;
-    padding-inline-start: 30px;
-  }
-  li {
-    line-height: 2rem;
+    padding-inline-start: 10px;
+    list-style-type: none;
   }
 
+  ul li {
+    line-height: 2rem;
+    position: relative;
+    padding-left: 1.5em;
+  }
+
+  ul li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.75em;
+    width: 0.3em;
+    height: 0.3em;
+    background-color: var(--darkgray);
+    border-radius: 50%;
+  }
+
+  /* 只为有子节点的无序列表项添加竖线 */
+  ul li:has(> ul)::after {
+    content: "";
+    position: absolute;
+    left: calc(0.15em - 0.5px);
+    top: 1.6em;
+    bottom: 0;
+    width: 1px;
+    background-color: var(--gray);
+  }
+
+  /* 为最后一个有子节点的无序列表项调整竖线长度 */
+  ul li:has(> ul):last-child::after {
+    bottom: 0.5em;
+  }
+
+  /* 有序列表样式 */
+  ol {
+    margin-block-start: -0.8em;
+    padding-inline-start: 30px; /* 为数字留出更多空间 */
+  }
+
+  ol li {
+    line-height: 2rem;
+    padding-left: 0.5em; /* 稍微缩进，与无序列表对齐 */
+  }
+
+  /* 通用列表项样式 */
   li > strong {
     color: var(--dark);
   }
