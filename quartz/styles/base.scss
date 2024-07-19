@@ -251,8 +251,9 @@ input[type="checkbox"] {
 blockquote {
   margin: 1rem 0;
   border-left: 3px solid var(--secondary);
-  padding-left: 1rem;
+  padding: 0.4rem 0 0.4rem 1rem;
   transition: border-color 0.2s ease;
+  background-color: var(--lightgray);
 }
 
 h1,
