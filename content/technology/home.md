@@ -1,7 +1,7 @@
 ---
 title: 技术
 ---
-##
+## 实践技术
 
 - [[technology/front-end/home|前端技术]]
 - [[technology/server/home|服务端技术]]
