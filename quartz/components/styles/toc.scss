@@ -1,3 +1,5 @@
+@use "../../styles/variables.scss" as *;
+
 button#toc {
   background-color: transparent;
   border: none;
@@ -41,13 +43,43 @@ button#toc {
     margin: 0.5rem 0;
     padding: 0;
     & > li > a {
+      display: block;
+      max-width: calc($sidePanelWidth - 120px); /* 内容过长显示... */
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
       color: var(--dark);
       opacity: 0.35;
       transition:
         0.5s ease opacity,
         0.3s ease color;
+
       &.in-view {
         opacity: 0.75;
+      }
+
+      // tooltip
+      &::after {
+        content: attr(title);
+        position: absolute;
+        left: 0;
+        top: 100%;
+        white-space: normal;
+        background-color: rgba(0, 0, 0, 0.8);
+        color: white;
+        padding: 5px;
+        border-radius: 3px;
+        font-size: 14px;
+        opacity: 0;
+        transition: opacity 0.5s;
+        pointer-events: none;
+        max-width: 200px; // 调整为合适的宽度
+        word-wrap: break-word;
+        z-index: 1000;
+      }
+
+      &:hover::after {
+        opacity: 1;
       }
     }
   }
