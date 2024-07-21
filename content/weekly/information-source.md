@@ -41,3 +41,7 @@ title: 周刊信息源
 - [枫言枫语 - 枫影 Justin Yan](https://justinyan.me/)
 - [Read Something Wonderful](https://readsomethingwonderful.com/)
 - [Words That Matter](https://words.getmatter.com/p/adam-mastroianni)
+
+优质信息导航
+
+- [见室纸藏](https://bento.me/apaper)
