@@ -26,6 +26,7 @@ interface Options {
   enableRobots: boolean
   rssLimit?: number
   rssFullHtml: boolean
+  rssFilter: ((params: [FullSlug, ContentDetails]) => boolean) | null
   includeEmptyFiles: boolean
 }
 
@@ -35,6 +36,7 @@ const defaultOptions: Options = {
   enableRobots: true,
   rssLimit: 10,
   rssFullHtml: false,
+  rssFilter: null,
   includeEmptyFiles: true,
 }
 
@@ -50,7 +52,12 @@ function generateSiteMap(cfg: GlobalConfiguration, idx: ContentIndex): string {
   return `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">${urls}</urlset>`
 }
 
-function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndex, limit?: number): string {
+function generateRSSFeed(
+  cfg: GlobalConfiguration,
+  idx: ContentIndex,
+  limit?: number,
+  rssFilter?: Options["rssFilter"],
+): string {
   const base = cfg.baseUrl ?? ""
 
   const createURLEntry = (slug: SimpleSlug, content: ContentDetails): string => `<item>
@@ -61,7 +68,17 @@ function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndex, limit?: nu
     <pubDate>${content.date?.toUTCString()}</pubDate>
   </item>`
 
-  const items = Array.from(idx)
+  let filteredItems: Array<[FullSlug, ContentDetails]>
+
+  if (rssFilter) {
+    // 使用 rssFilter 过滤 idx
+    filteredItems = Array.from(idx).filter((item) => rssFilter(item))
+  } else {
+    // 否则，不过滤 idx
+    filteredItems = Array.from(idx)
+  }
+
+  const items = filteredItems
     .sort(([_, f1], [__, f2]) => {
       if (f1.date && f2.date) {
         return f2.date.getTime() - f1.date.getTime()
@@ -165,7 +182,7 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
         emitted.push(
           await write({
             ctx,
-            content: generateRSSFeed(cfg, linkIndex, opts.rssLimit),
+            content: generateRSSFeed(cfg, linkIndex, opts.rssLimit, opts.rssFilter),
             slug: "index" as FullSlug,
             ext: ".xml",
           }),

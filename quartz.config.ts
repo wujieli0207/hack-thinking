@@ -78,6 +78,10 @@ const config: QuartzConfig = {
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
+        rssFilter: ([slug]) =>
+          slug.includes("weekly/") &&
+          !slug.includes("weekly/home") &&
+          !slug.includes("weekly/information-source"),
       }),
       Plugin.Assets(),
       Plugin.Static(),
