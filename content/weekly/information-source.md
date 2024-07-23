@@ -45,3 +45,4 @@ title: 周刊信息源
 优质信息导航
 
 - [见室纸藏](https://bento.me/apaper)
+- [awesome-tech-weekly-zh: 中文技术（周/月/日）刊汇总](https://github.com/yeshan333/awesome-tech-weekly-zh?tab=readme-ov-file)
