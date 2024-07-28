@@ -105,7 +105,9 @@ To go beyond this general advice, we need to look at the internal structure of i
 
 要超越这些一般建议，我们需要看看独立思维的内部结构——就像我们需要锻炼的个别肌肉一样。在我看来，它有三个组成部分：对真理的挑剔，对被告知该怎么想的抵抗，以及好奇心。
 
-Fastidiousness about truth means more than just not believing things that are false. It means being careful about degree of belief. For most people, degree of belief rushes unexamined toward the extremes: the unlikely becomes impossible, and the probable becomes certain. To the independent-minded ，对真理的挑剔不仅仅意味着不相信错误的事情。它意味着对信念的程度要小心。对于大多数人来说，信念的程度在未经检验的情况下迅速趋向极端：不太可能的事情变得不可能，而可能的事情变得确定。
+Fastidiousness about truth means more than just not believing things that are false. It means being careful about degree of belief. For most people, degree of belief rushes unexamined toward the extremes: the unlikely becomes impossible, and the probable becomes certain. To the independent-minded .
+
+对真理的挑剔不仅仅意味着不相信错误的事情。它意味着对信念的程度要小心。对于大多数人来说，信念的程度在未经检验的情况下迅速趋向极端：不太可能的事情变得不可能，而可能的事情变得确定。
 
 The independent-minded thus have a horror of ideologies, which require one to accept a whole collection of beliefs at once, and to treat them as articles of faith. To an independent-minded person that would seem revolting, just as it would seem to someone fastidious about food to take a bite of a submarine sandwich filled with a large variety of ingredients of indeterminate age and provenance.
 
@@ -169,9 +171,9 @@ Curiosity seems to be more individual than fastidiousness about truth or resista
 
 Notes
 
-[1] One convenient consequence of the fact that no one identifies as conventional-minded is that you can say what you like about conventional-minded people without getting in too much trouble. When I wrote "The Four Quadrants of Conformism" I expected a firestorm of rage from the aggressively conventional-minded, but in fact it was quite muted. They sensed that there was something about the essay that they disliked intensely, but they had a hard time finding a specific passage to pin it on.
-
 注释
+
+[1] One convenient consequence of the fact that no one identifies as conventional-minded is that you can say what you like about conventional-minded people without getting in too much trouble. When I wrote "The Four Quadrants of Conformism" I expected a firestorm of rage from the aggressively conventional-minded, but in fact it was quite muted. They sensed that there was something about the essay that they disliked intensely, but they had a hard time finding a specific passage to pin it on.
 
 [1] 没有人认同自己是保守思维的一个方便结果是，你可以随意谈论保守思维的人而不会惹上太多麻烦。当我写《顺从的四个象限》时，我预料到会有来自激进保守思维的愤怒风暴，但实际上却相当平静。他们感觉到这篇文章有他们非常不喜欢的地方，但很难找到具体的段落来指责。
 
