@@ -1,5 +1,6 @@
 ---
-title: What Is ChatGPT Doing … and Why Does It Work
+title: ChatGPT 是如何工作的
+date: 2024-08-02
 ---
 作者：[[stephen-wolfram|Stephen Wolfram]]
 

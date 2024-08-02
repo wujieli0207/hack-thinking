@@ -1,5 +1,6 @@
 ---
 title: How to Think for Yourself
+date: 2024-07-28
 ---
 作者：[[paul-graham|保罗·格雷厄姆]]
 

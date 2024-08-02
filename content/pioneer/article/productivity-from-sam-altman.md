@@ -1,5 +1,6 @@
 ---
 title: Productivity（Sam Altman）
+date: 2024-07-06
 ---
 
 作者：[[sam-altman|山姆·奥特曼]]

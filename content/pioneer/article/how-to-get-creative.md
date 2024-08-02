@@ -1,5 +1,6 @@
 ---
 title: 如何激发创意
+date: 2024-07-21
 ---
 [原文链接](https://x.com/george__mack/status/1665059465144463362)
 
@@ -31,8 +32,8 @@ Instead, add new inputs...
 
 ![](https://pbs.twimg.com/media/Fxt5cTJWAAUEIKl.jpg)
 
-
 ## 增加创造力的 11 个方式
+
 ### 1. The Swedish House Mafia Technique
 
 Get a room with friends away from the outside world.
@@ -77,9 +78,6 @@ That 10% input is like a VC's investment portfolio - it makes up for all the fai
 
 那10%的输入就像风险投资人的投资组合 - 它弥补了所有失败的投资
 
-
-
-
 ### 3. Balaji's Transformer
 
 If you have a written idea -- try to draw it
@@ -99,7 +97,6 @@ The process of transforming the idea from one language to another produces a new
 如果你有一个数字想法 -- 试着大声解释它
 
 将想法从一种语言转换为另一种语言的过程会产生新的视角
-
 
 E.g. Walt Disney's business plan
 
@@ -137,7 +134,6 @@ The brain is free to stop worrying about other people -- and fills the vacuum wi
 
 大脑可以自由地停止担心其他人 -- 并用想法填补这个空白。
 
-
 ### 5. Create An Evil Twin
 
 Imagine there's an evil identical twin of you whose sole job is to out-think you.
@@ -153,8 +149,6 @@ This thought experiment allows the mind to explore creative ideas -- because you
 他们在想什么？
 
 这个思维实验允许大脑探索创意想法 -- 因为你可以把责任推给那个双胞胎。
-
-
 
 ### 6. Spin Wheels
 
@@ -186,7 +180,6 @@ If you study history, your inputs go from the best content in the last 24h to th
 @david_perell 称之为"永无止境的当下"
 
 如果你研究历史，你的输入就从过去24小时内的最佳内容变成了有史以来最好的内容。
-
 
 ### 8. Be Like Japan
 
