@@ -1,5 +1,6 @@
 ---
 title: 归并排序
+date: 2024-07-28
 ---
 
 核心思想：[[divide-and-conquer|分治法]]

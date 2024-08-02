@@ -1,5 +1,6 @@
 ---
 title: 诚实
+date: 2024-07-06
 ---
 
 诚实的三重含义 [link](https://mp.weixin.qq.com/s?__biz=MzAxNDE0MjA2OQ==&mid=2650422870&idx=1&sn=5a659e24e72e30ca98df92f26ef3aecb&chksm=8399414cb4eec85a695cf913c4d90a4c81de359cb6706ee5a99a545f6df3dcd3523a064794fc&scene=21#wechat_redirect)

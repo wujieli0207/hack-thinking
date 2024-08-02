@@ -1,5 +1,6 @@
 ---
 title: 基于属性的访问控制（Attribute-Based Access Control, ABAC）
+date: 2024-07-28
 ---
 ## 基础概念
 
