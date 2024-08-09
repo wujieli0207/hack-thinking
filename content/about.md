@@ -18,7 +18,7 @@ title: about
 
 我的产品
 
-- [独立开发沉思录](https://hackthinking.com/)
+- [独立开发沉思录](https://www.hackthinking.com/)
 - [即刻导出](https://jike-export.wujieli.com/)
 
 哪里可以找到我
