@@ -1,5 +1,6 @@
 ---
 title: An exploration of vector search
+date: 2024-08-10
 ---
 [原文链接](https://blog.shalvah.me/posts/an-exploration-of-vector-search)
 
