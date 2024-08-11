@@ -39,10 +39,15 @@ title: 周刊信息源
 - [槿呈Goidea](https://justgoidea.com/)
 - [Pseudoyu](https://www.pseudoyu.com/zh/)
 - [枫言枫语 - 枫影 Justin Yan](https://justinyan.me/)
-- [Read Something Wonderful](https://readsomethingwonderful.com/)
-- [Words That Matter](https://words.getmatter.com/p/adam-mastroianni)
+- [zlbigger's BLog](https://zlbigger.com/)
+- [Shalvah's Blog](https://blog.shalvah.me/)
 
 优质信息导航
 
 - [见室纸藏](https://bento.me/apaper)
 - [awesome-tech-weekly-zh: 中文技术（周/月/日）刊汇总](https://github.com/yeshan333/awesome-tech-weekly-zh?tab=readme-ov-file)
+
+英文内容
+- [Read Something Wonderful](https://readsomethingwonderful.com/)
+- [Words That Matter](https://words.getmatter.com/p/adam-mastroianni)
+- [Wait But Why](https://waitbutwhy.com/)
