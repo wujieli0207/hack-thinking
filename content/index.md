@@ -1,5 +1,6 @@
 ---
 title: 你好，同路人
+date: 2024-06-28
 ---
 
 ![banner](./resource/banner.jpg)
