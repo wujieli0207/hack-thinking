@@ -41,6 +41,7 @@ title: 周刊信息源
 - [枫言枫语 - 枫影 Justin Yan](https://justinyan.me/)
 - [zlbigger's BLog](https://zlbigger.com/)
 - [Shalvah's Blog](https://blog.shalvah.me/)
+- [Oliver Burkeman](https://www.oliverburkeman.com/)
 
 优质信息导航
 
