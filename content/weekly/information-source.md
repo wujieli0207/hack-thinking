@@ -52,3 +52,4 @@ title: 周刊信息源
 - [Read Something Wonderful](https://readsomethingwonderful.com/)
 - [Words That Matter](https://words.getmatter.com/p/adam-mastroianni)
 - [Wait But Why](https://waitbutwhy.com/)
+- [Long Form Reads](https://www.danhock.com/long-form-reads)
