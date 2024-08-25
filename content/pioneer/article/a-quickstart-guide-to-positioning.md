@@ -96,8 +96,6 @@ Positioning is like [context-setting](https://www.aprildunford.com/post/how-to-t
 
 Oh it's Apocalypse right now alright
 
-![Image 1](https://cdn.prod.website-files.com/5ebd7ae939f9f61d8e17bc5e/604fa8912000ff41af659a6b_Apocalypse%20Now.jpg)
-
 哦，现在确实是世界末日
 
 Then slowly the scene shifts and we see Martin Sheen’s face. He’s drinking and smoking, his hotel room is a total mess and he’s clearly in psychological distress. He walks over to the window and we get the first line of dialog of the movie - “Saigon. Shit. I’m still only in Saigon. Everytime I think I’m gonna wake up back in the jungle.” We are exactly 4 minutes and 45 seconds into the movie but we know a lot about what’s happening. We are in the middle of the Vietnam war, and in Saigon specifically. Our lead character has been there before and has some pretty bad PTSD as a result. We also get the tone of the movie and we know it’s going to be an intense couple of hours. The opening scene positions the movie by answering our big questions about who, what, where and why so that we can settle in and focus on the details of the story within that context.
@@ -112,11 +110,7 @@ Suppose I pitch you my product, and all I tell you is that it's a "CRM" and that
 
 假设我向你推销我的产品，我只告诉你它是一个“CRM”，仅此而已。在我推销的第二页之前，你会对我的产品做出什么假设？你会假设我的竞争对手是 Salesforce——他们是该市场的领导者。你会假设我卖给销售主管。你会假设我的产品有一组功能——例如，跟踪交易和账户。你甚至会做出价格假设。Salesforce 是市场领导者，所以你会假设我的产品价格低于它。
 
->
-
 > Good positioning sets off a set of assumptions about my product that are true. Bad positioning sets off a set of assumptions about my product that aren't true - leaving your sales and marketing teams to do the work of undoing the damage your positioning has already done.
-
->
 
 > 良好的定位会引发一组关于我的产品的真实假设。糟糕的定位会引发一组关于我的产品的不真实假设——让你的销售和营销团队去修复你的定位已经造成的损害。
 
@@ -134,11 +128,11 @@ So if positioning is so important, how do we do it. Let's start with what not to
 
 The Traditional Positioning Statement
 
+传统的定位声明
+
 **‍I believe this exercise is not only pointless but potentially dangerous**. The exercise assumes that there is only one answer for each of the blanks, and you simply "know" what it is. However, most products could easily be positioned in multiple different market categories, with different competitors, providing different value for different kinds of customers. How would this exercise help me understand that my "Microsoft Access Killer" was really an "Embeddable Database for Mobile Devices?" The answer is that it simply would not.
 
 ![Image 2](https://cdn.prod.website-files.com/5ebd7ae939f9f61d8e17bc5e/604fa61ee92de95bedc77b14_Positioning%20Statement.png)
-
-传统的定位声明
 
 **我认为这个练习不仅毫无意义，而且可能是危险的**。这个练习假设每个空白处只有一个答案，而你只是“知道”它是什么。然而，大多数产品可以轻松地在多个不同的市场类别中定位，拥有不同的竞争对手，为不同类型的客户提供不同的价值。这个练习如何帮助我理解我的“Microsoft Access 杀手”实际上是一个“移动设备的嵌入式数据库”？答案是它根本不会。
 
@@ -151,6 +145,8 @@ So how do we find the best positioning for our offerings? This question vexed me
 那么我们如何为我们的产品找到最佳定位呢？作为七家成功初创公司（以及收购它们的六家大公司）的营销高管，这个问题困扰了我。我读书！我上课！每个人都同意定位是我们构建整个市场策略的营销基石，然而，似乎没有一种实际完成它的方法论。我决定弄清楚。
 
 I started with an engineering mindset. I decided we could break positioning up into its component pieces, find the best answer for each piece, bring the pieces back together, and voila - great positioning.
+
+我从工程思维开始。我决定我们可以将定位分解成其组成部分，为每个部分找到最佳答案，然后将这些部分重新组合起来，瞧——伟大的定位。
 
 Breaking positioning up isn't hard because we generally agree on the components. These are, in essence, the blanks in the positioning statement. The components are:
 
@@ -165,8 +161,6 @@ Breaking positioning up isn't hard because we generally agree on the components.
 5. Market Category
 
 Easy. Now, all we have to do is figure out how to get the best answer for each component. Now here's where things get a little tricky.
-
-我从工程思维开始。我决定我们可以将定位分解成其组成部分，为每个部分找到最佳答案，然后将这些部分重新组合起来，瞧——伟大的定位。
 
 分解定位并不难，因为我们通常对组成部分达成一致。这些本质上是定位声明中的空白。组成部分是：
 
@@ -192,9 +186,9 @@ If you look at the pieces, you quickly understand that each component has a rela
 
 For two years, I didn't think there was a starting point. I attempted to find the best positioning for my products by picking an arbitrary starting point (for example, features) and then working my way through the others to get a "candidate positioning." I would then test it on prospects, and if it worked, we ran with it. If it didn't, I tossed it out and repeated the process to get another candidate to test.
 
-The drawbacks to this method are obvious to anyone who's worked in a startup. It just took too long!! While I was out testing candidate after candidate, the sales, marketing, and product teams were stuck in a holding pattern waiting.
-
 两年来，我认为没有起点。我试图通过选择一个任意的起点（例如功能），然后通过其他部分来找到我的产品的最佳定位，得到一个“候选定位”。然后我会在潜在客户上测试它，如果有效，我们就继续。如果无效，我就把它扔掉，重复这个过程以获得另一个候选者进行测试。
+
+The drawbacks to this method are obvious to anyone who's worked in a startup. It just took too long!! While I was out testing candidate after candidate, the sales, marketing, and product teams were stuck in a holding pattern waiting.
 
 这种方法的缺点对任何在初创公司工作过的人来说都是显而易见的。它花费的时间太长了！！当我在一个又一个候选者上测试时，销售、营销和产品团队都被困在等待的状态中。
 
@@ -210,8 +204,6 @@ Eventually, Clayton Christensen solved this problem for me. I was reading everyt
 
 Obviously Awesome - Positioning Workflow
 
-![Image 3](https://cdn.prod.website-files.com/5ebd7ae939f9f61d8e17bc5e/604fa6856f769111eb21ec98_Positioning%20workflow.png)
-
 显然很棒——定位工作流程
 
 We start with **competitive** **alternatives**, or what would customers do if our solution didn't exist. Once we have that, we can ask ourselves, "What do we have that the alternatives do not?" That gives us a list of differentiated features or **key unique attributes**. We can then go down that list and ask ourselves, "_So what_ for customers?" Put another way, what is the **value** those capabilities enable for our buyers? Once we understand what our differentiated value is, then we can move to customer segmentation, or who are the **customers that care** a lot about our value. There is likely a wide range of buyers that care about that value, but certain customers care a lot more than others. What are the characteristics of a customer that makes them care a lot about your differentiated value? That gives us an idea of who our best-fit customers are. Lastly, we move to market category. Our best market category is the context we position our product in such that our value is obvious to our target customers. Put another way, it is the definition of the **market we intend to win**.
@@ -226,11 +218,7 @@ Let’s walk through an example of how this works. Early in my career I ran mark
 
 让我们通过一个例子来看看这是如何工作的。在我职业生涯的早期，我为一家将其产品定位为企业 CRM 的公司负责营销。这是很久以前的事了，当时 Salesforce 仍然专注于中小企业，而当时企业 CRM 市场的巨头是 Siebel Systems。不出所料，每次我们与客户会面时，都会被问到“那么你们比 Siebel 好在哪里？”这对我们来说是个糟糕的问题，因为几乎在每个方面，他们都比我们好。他们有 8000 名员工，而我们只有几十名。他们有 20 亿美元的收入，而我们不到 200 万美元。他们有 400 名客户，而我们只有 6 名。然而，我们确实有两个差异化点。第一个是他们无法匹配的功能——我们可以以不同的方式建模关系。问题是，大多数情况下，我们没有很好地阐明这一点的价值。我们在每次演示中都展示了这个功能，当客户问我们他们可以用这个功能做什么时，我们的回答是“随你所愿！”
 
->
-
 > Coming back to the process I laid out in the previous section - our competitor was obvious, it was Siebel. Our differentiator was the ability to model relationships in a different way. What we hadn’t figured out was what the value of that feature was and what types of customers cared a lot about it.
-
->
 
 > 回到我在上一节中描述的过程——我们的竞争对手很明显，是 Siebel。我们的差异化点是能够以不同的方式建模关系。我们没有弄清楚的是这个功能的价值是什么，以及哪些类型的客户非常关心它。
 
@@ -258,7 +246,7 @@ Once you understand the flow, conceptually, it's pretty easy. But that doesn't m
   
 The most common mistake I see startups make is in how they define the competitive alternatives in the first step. A better way to think about competitive alternatives is to ask yourself, "What would a customer do if your offering didn't exist?" Sometimes the answer to that question is "Do nothing." What that really means is the customer would stick with their current way of solving the problem. That could mean using a spreadsheet, using a manual process, or hiring an intern to do it. In enterprise software, we typically lose 25% of deals to "no decision." Your positioning needs to position you against the status quo if you want to convince customers to act.
 
-我看到初创公司犯的最常见错误是他们在第一步中如何定义竞争替代品。更好的思考竞争替代品的方法是问自己，“如果你的产品不存在，客户会做什么？”有时这个问题的答案是“什么都不做。”这实际上意味着客户会坚持他们当前解决问题的方式。这可能意味着使用电子表格、使用手动流程或雇用实习生来做。在企业软件中，我们通常会失去 25% 的交易，因为“没有决定”。如果你想说服客户采取行动，你的定位需要针对现状进行定位。
+我看到初创公司犯的最常见错误是他们在第一步中如何定义竞争替代品。更好的思考竞争替代品的方法是问自己，“如果你的产品不存在，客户会做什么？”有时这个问题的答案是“什么都不做”。这实际上意味着客户会坚持他们当前解决问题的方式。这可能意味着使用电子表格、使用手动流程或雇用实习生来做。在企业软件中，我们通常会失去 25% 的交易，因为“没有决定”。如果你想说服客户采取行动，你的定位需要针对现状进行定位。
 
 Next, I see companies listing what I would call "phantom competitors" in step 1. [Phantom competitors](https://twitter.com/aprildunford/status/1334143529573081089?s=20) are companies that theoretically could compete with you; you just never actually see them or lose to them in deals. Until you do, you are watering down your positioning by trying to position against them. Step 1 in the positioning process is to identify what your customers see as alternatives. This isn't a test of your internet research skills, and just because a company could compete with you doesn't mean they ever will. The product team might want to keep an eye on them as a future competitive threat, and if you do start to see them in deals, you can adjust your positioning at that time. Until then, you will weaken your positioning by trying to position against competitors your customers never even consider.
 
