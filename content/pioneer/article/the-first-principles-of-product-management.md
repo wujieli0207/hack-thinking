@@ -78,8 +78,8 @@ Defining the product strategy is a massive responsibility… how does a PM do it
 2. What the environment around them is signalling
 3. What people, money, and time constraints exist
 
-
 定义产品策略是一项重大责任...产品经理如何做到这一点？通过考虑三个输入：
+
 1. 目标是什么
 2. 周围环境发出的信号是什么
 3. 存在哪些人员、资金和时间限制
