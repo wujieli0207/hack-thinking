@@ -55,6 +55,7 @@ date: 2024-06-19
 - [Wait But Why](https://waitbutwhy.com/)
 - [Long Form Reads](https://www.danhock.com/long-form-reads)
 - [Lenny's Newsletter](https://www.lennysnewsletter.com/about)
+- [Y Combinator blog](https://www.ycombinator.com/blog)
 
 社交媒体
 - [Twitter Leaderboard：Top saved tweets](https://readwise.io/twitter_leaderboard)
