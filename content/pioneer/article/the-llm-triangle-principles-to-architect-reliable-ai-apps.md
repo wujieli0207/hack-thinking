@@ -16,7 +16,7 @@ Large Language Models (LLMs) hold immense potential, but developing reliable pro
 
 Building production-ready LLM applications requires careful engineering practices. When users cannot interact directly with the LLM, the prompt must be meticulously composed to cover all nuances, as iterative user feedback may be unavailable.
 
-> 构建可投入生产的应用程序需要仔细的工程实践。当用户无法直接与 LLM 交互时，必须精心编写提示以涵盖所有细微差别，因为可能无法获得迭代的用户反馈。
+构建可投入生产的应用程序需要仔细的工程实践。当用户无法直接与 LLM 交互时，必须精心编写提示以涵盖所有细微差别，因为可能无法获得迭代的用户反馈。
 
 ## Introducing the LLM Triangle Principles
 
