@@ -79,7 +79,7 @@ const config: QuartzConfig = {
         enableSiteMap: true,
         enableRSS: true,
         rssFullHtml: true,
-        enableMonetag: true,
+        enableMonetag: false,
         rssFilter: ([slug]) =>
           slug.includes("weekly/") &&
           !slug.includes("weekly/home") &&

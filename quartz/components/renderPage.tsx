@@ -217,9 +217,6 @@ export function renderPage(
   const doc = (
     <html lang={lang}>
       <Head {...componentData} />
-
-      {MonetagAd()}
-
       <body data-slug={slug}>
         <div id="quartz-root" class="page">
           <Body {...componentData}>
