@@ -12,8 +12,8 @@ importers:
         specifier: ^0.7.0
         version: 0.7.0
       '@floating-ui/dom':
-        specifier: ^1.6.8
-        version: 1.6.8
+        specifier: ^1.6.10
+        version: 1.6.10
       '@napi-rs/simple-git':
         specifier: 0.1.16
         version: 0.1.16
@@ -539,11 +539,11 @@ packages:
   '@floating-ui/core@1.6.3':
     resolution: {integrity: sha512-1ZpCvYf788/ZXOhRQGFxnYQOVgeU+pi0i+d0Ow34La7qjIXETi6RNswGVKkA6KcDO8/+Ysu2E/CeUmmeEBDvTg==}
 
-  '@floating-ui/dom@1.6.8':
-    resolution: {integrity: sha512-kx62rP19VZ767Q653wsP1XZCGIirkE09E0QUGNYTM/ttbbQHqcGPdSfWFxUyyNLc/W6aoJRBajOSXhP6GXjC0Q==}
+  '@floating-ui/dom@1.6.10':
+    resolution: {integrity: sha512-fskgCFv8J8OamCmyun8MfjB1Olfn+uZKjOKZ0vhYF3gRmEUXcGOjxWL8bBr7i4kIuPZ2KD2S3EUIOxnjC8kl2A==}
 
-  '@floating-ui/utils@0.2.5':
-    resolution: {integrity: sha512-sTcG+QZ6fdEUObICavU+aB3Mp8HY4n14wYHdxK4fXjPmv3PXZZeY5RaguJmGyeH/CJQhX3fqKUtS4qc1LoHwhQ==}
+  '@floating-ui/utils@0.2.7':
+    resolution: {integrity: sha512-X8R8Oj771YRl/w+c1HqAC1szL8zWQRwFvgDwT129k9ACdBoud/+/rX9V0qiMl6LWUdP9voC2nDVZYPMQQsb6eA==}
 
   '@isaacs/cliui@8.0.2':
     resolution: {integrity: sha512-O8jcjabXaleOG9DQ0+ARXWZBTfnP4WNAqzuiJK7ll44AmxGKv/J2M4TPjxjY3znBCfvBXFzucm1twdyFybFqEA==}
@@ -2378,14 +2378,14 @@ snapshots:
 
   '@floating-ui/core@1.6.3':
     dependencies:
-      '@floating-ui/utils': 0.2.5
+      '@floating-ui/utils': 0.2.7
 
-  '@floating-ui/dom@1.6.8':
+  '@floating-ui/dom@1.6.10':
     dependencies:
       '@floating-ui/core': 1.6.3
-      '@floating-ui/utils': 0.2.5
+      '@floating-ui/utils': 0.2.7
 
-  '@floating-ui/utils@0.2.5': {}
+  '@floating-ui/utils@0.2.7': {}
 
   '@isaacs/cliui@8.0.2':
     dependencies:
