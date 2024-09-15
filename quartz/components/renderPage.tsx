@@ -27,6 +27,7 @@ export function pageResources(
 ): StaticResources {
   const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json")
   const contentIndexScript = `const fetchData = fetch("${contentIndexPath}").then(data => data.json())`
+  const monetagAdScript = `<script>(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://zovidree.com/tag.min.js',8096828,document.body||document.documentElement)</script>`
 
   return {
     css: [joinSegments(baseDir, "index.css"), ...staticResources.css],
@@ -41,6 +42,12 @@ export function pageResources(
         contentType: "inline",
         spaPreserve: true,
         script: contentIndexScript,
+      },
+      {
+        loadTime: "beforeDOMReady",
+        contentType: "inline",
+        spaPreserve: true,
+        script: monetagAdScript,
       },
       ...staticResources.js,
       {
