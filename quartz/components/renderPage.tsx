@@ -2,7 +2,7 @@ import { render } from "preact-render-to-string"
 import { QuartzComponent, QuartzComponentProps } from "./types"
 import HeaderConstructor from "./Header"
 import BodyConstructor from "./Body"
-import { JSResourceToScriptElement, StaticResources } from "../util/resources"
+import { JSResourceToScriptElement, MonetagAd, StaticResources } from "../util/resources"
 import { clone, FullSlug, RelativeURL, joinSegments, normalizeHastElement } from "../util/path"
 import { visit } from "unist-util-visit"
 import { Root, Element, ElementContent } from "hast"
@@ -27,7 +27,6 @@ export function pageResources(
 ): StaticResources {
   const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json")
   const contentIndexScript = `const fetchData = fetch("${contentIndexPath}").then(data => data.json())`
-  const monetagAdScript = `(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://zovidree.com/tag.min.js',8096828,document.body||document.documentElement)`
 
   return {
     css: [joinSegments(baseDir, "index.css"), ...staticResources.css],
@@ -49,12 +48,6 @@ export function pageResources(
         loadTime: "afterDOMReady",
         moduleType: "module",
         contentType: "external",
-      },
-      {
-        loadTime: "afterDOMReady",
-        contentType: "inline",
-        spaPreserve: true,
-        script: monetagAdScript,
       },
     ],
   }
@@ -220,9 +213,13 @@ export function renderPage(
   )
 
   const lang = componentData.fileData.frontmatter?.lang ?? cfg.locale?.split("-")[0] ?? "en"
+
   const doc = (
     <html lang={lang}>
       <Head {...componentData} />
+
+      {MonetagAd()}
+
       <body data-slug={slug}>
         <div id="quartz-root" class="page">
           <Body {...componentData}>

@@ -36,6 +36,17 @@ export function JSResourceToScriptElement(resource: JSResource, preserve?: boole
   }
 }
 
+export function MonetagAd(): JSX.Element {
+  const monetagAdScript = `(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://zovidree.com/tag.min.js',8096828,document.body||document.documentElement)`
+
+  return (
+    <script
+      type="application/javascript"
+      dangerouslySetInnerHTML={{ __html: monetagAdScript }}
+    ></script>
+  )
+}
+
 export interface StaticResources {
   css: string[]
   js: JSResource[]
