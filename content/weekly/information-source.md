@@ -43,6 +43,7 @@ date: 2024-06-19
 - [zlbigger's BLog](https://zlbigger.com/)
 - [Shalvah's Blog](https://blog.shalvah.me/)
 - [Oliver Burkeman](https://www.oliverburkeman.com/)
+- [Andy Matuschak](https://andymatuschak.org/)
 
 优质信息导航
 
