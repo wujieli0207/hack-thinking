@@ -99,8 +99,8 @@ importers:
         specifier: ^2.1.1
         version: 2.1.1
       rehype-katex:
-        specifier: ^7.0.0
-        version: 7.0.0
+        specifier: ^7.0.1
+        version: 7.0.1
       rehype-mathjax:
         specifier: ^6.0.0
         version: 6.0.0
@@ -1830,8 +1830,8 @@ packages:
   rehype-citation@2.1.1:
     resolution: {integrity: sha512-9aXDHR4pnR8Yyt6DFDXq2EKcxhwjf4HuF5kxvQDbhH8xfY5VjqJQNmIzpsXAn6YcmytOGWNf+82WnIroKAaLSw==}
 
-  rehype-katex@7.0.0:
-    resolution: {integrity: sha512-h8FPkGE00r2XKU+/acgqwWUlyzve1IiOKwsEkg4pDL3k48PiE0Pt+/uLtVHDVkN1yA4iurZN6UES8ivHVEQV6Q==}
+  rehype-katex@7.0.1:
+    resolution: {integrity: sha512-OiM2wrZ/wuhKkigASodFoo8wimG3H12LWQaH8qSPVJn9apWKFSH3YOCtbKpBorTVw/eI7cuT21XBbvwEswbIOA==}
 
   rehype-mathjax@6.0.0:
     resolution: {integrity: sha512-SioRmn+0mRWtDc4QVKG9JG88bXhPazfhc11GQoQ68mwot2WWyfabyZ7tuJu3Z4LCf893wXkQTVTF8PUlntoDwA==}
@@ -4039,7 +4039,7 @@ snapshots:
     transitivePeerDependencies:
       - encoding
 
-  rehype-katex@7.0.0:
+  rehype-katex@7.0.1:
     dependencies:
       '@types/hast': 3.0.4
       '@types/katex': 0.16.7
