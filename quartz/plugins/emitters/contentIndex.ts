@@ -105,6 +105,10 @@ function generateRSSFeed(
         cfg.pageTitle,
       )}</description>
       <generator>独立开发沉思录 -- hackthinking.com</generator>
+      <follow_challenge>
+        <feedId>57920833512897536</feedId>
+        <userId>41366747429626880</userId>
+      </follow_challenge>
       ${items}
     </channel>
   </rss>`
