@@ -28,6 +28,8 @@ export const sharedPageComponents: SharedLayout = {
       即刻: "https://web.okjike.com/u/737645D8-42B5-4B4F-9687-DCA50D85DE1A",
       "URL to Any": "https://www.urltoany.com",
       "Vercel Popular": "https://www.vercelpopular.com/",
+      标小智: "https://www.logosc.cn/start",
+      uBrand: "https://www.ubrand.com/",
     },
   }),
 }
