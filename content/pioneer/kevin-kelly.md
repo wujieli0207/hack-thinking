@@ -1,5 +1,5 @@
 ---
-title: Kevin Kelly
+title: 凯文·凯利
 date: 2024-06-30
 ---
 
