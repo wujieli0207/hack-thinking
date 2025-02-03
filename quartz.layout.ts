@@ -29,6 +29,7 @@ export const sharedPageComponents: SharedLayout = {
       "URL to Any": "https://www.urltoany.com",
       "Vercel Popular": "https://www.vercelpopular.com/",
       "Slogan Maker": "https://www.slogan-maker.org/",
+      "AI Question Answer": "https://www.ai-question-answer.com",
       标小智: "https://www.logosc.cn/start",
       uBrand: "https://www.ubrand.com/",
     },
