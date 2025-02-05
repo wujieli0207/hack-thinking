@@ -14,6 +14,7 @@ https:// maps.google.com/url?q=【需要替换的URL】
 具体链接示例
 
 - <https://maps.google.com/url?q=https://www.ai-question-answer.com>
+- <https://maps.google.com/url?q=https://www.urltoany.com>
 
 制作的 Google Maps URL 链接打开后，会看到嵌入了你的网站的链接，如果你的链接可以正常打开的话，Google Maps URL 就制作完成了
 
