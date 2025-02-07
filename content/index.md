@@ -3,7 +3,7 @@ title: 你好，同路人
 date: 2024-06-28
 ---
 
-![banner](./resource/banner.jpg)
+![你好，同路人 banner](https://image.hackthinking.com/banner.jpg)
 
 > 人们会被自己热爱的事物改变，而没有人因为给予而贫穷
 
