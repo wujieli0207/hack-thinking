@@ -13,6 +13,7 @@ https:// maps.google.com/url?q=【需要替换的URL】
 
 具体链接示例
 
+- <https://maps.google.com/url?q=https://www.hackthinking.com/>
 - <https://maps.google.com/url?q=https://www.ai-question-answer.com>
 - <https://maps.google.com/url?q=https://www.urltoany.com>
 
